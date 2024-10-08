@@ -25,3 +25,7 @@ Performance basics are covered: assets are minified into single CSS and JS files
 git add .
 git commit -m "commentaire"
 git push origin 
+
+git checkout -b main
+
+coucou
